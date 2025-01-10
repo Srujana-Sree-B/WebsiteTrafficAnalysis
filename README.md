@@ -1,6 +1,8 @@
 # Website Traffic and User Engagement Analysis
 Objective of this project is to conduct in-depth analysis of website traffic data to identify user behavior patterns and segment users based on key features.
-Tools Used: 
+
+Tools Used: Python (Pandas), Tableau, Excel
+
 Website traffic data is collected from Kaggle datasets.
 ## Dataset Attribution
 
