@@ -7,6 +7,8 @@ Website traffic data is collected from Kaggle datasets.
 This project uses the dataset **[Website Traffic Data](https://www.kaggle.com/datasets/anthonytherrien/website-traffic)**, 
                    created by **[John Doe](https://www.kaggle.com/johndoe)**.  
 The dataset is licensed under the **[CC BY-SA 4.0 License](https://creativecommons.org/licenses/by/4.0/)**.  
+##
+
 Engineered new features such as Time Spent per Page, Session Duration per Visit. Performed segementation analysis to identify segments like Frequent Visitors, First-time Users and High Converting Users.
 
 Used Tabluea for Visualizing and creating dashboard.
